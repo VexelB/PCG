@@ -26,7 +26,7 @@
 
 [Лабораторная работа 14](https://github.com/VexelB/PCG/tree/master/14)
 
-[Лабораторная работа 15](https://github.com/VexelB/PCG/tree/master/15
+[Лабораторная работа 15](https://github.com/VexelB/PCG/tree/master/15)
 
 [Лабораторная работа 16](https://github.com/VexelB/PCG/tree/master/16)
 
