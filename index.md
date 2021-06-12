@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+[Лабораторная работа 1](https://github.com/VexelB/PCG/tree/master/1)
 
-You can use the [editor on GitHub](https://github.com/VexelB/PCG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Лабораторная работа 2](https://github.com/VexelB/PCG/tree/master/2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Лабораторная работа 3](https://github.com/VexelB/PCG/tree/master/3)
 
-### Markdown
+[Лабораторная работа 4](https://github.com/VexelB/PCG/tree/master/4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Лабораторная работа 5](https://github.com/VexelB/PCG/tree/master/5)
 
-```markdown
-Syntax highlighted code block
+[Лабораторная работа 6](https://github.com/VexelB/PCG/tree/master/6)
 
-# Header 1
-## Header 2
-### Header 3
+[Лабораторная работа 7](https://github.com/VexelB/PCG/tree/master/7)
 
-- Bulleted
-- List
+[Лабораторная работа 8](https://github.com/VexelB/PCG/tree/master/8)
 
-1. Numbered
-2. List
+[Лабораторная работа 9](https://github.com/VexelB/PCG/tree/master/9)
 
-**Bold** and _Italic_ and `Code` text
+[Лабораторная работа 10](https://github.com/VexelB/PCG/tree/master/10)
 
-[Link](url) and ![Image](src)
-```
+[Лабораторная работа 11](https://github.com/VexelB/PCG/tree/master/11)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Лабораторная работа 12](https://github.com/VexelB/PCG/tree/master/12)
 
-### Jekyll Themes
+[Лабораторная работа 13](https://github.com/VexelB/PCG/tree/master/13)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VexelB/PCG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Лабораторная работа 14](https://github.com/VexelB/PCG/tree/master/14)
 
-### Support or Contact
+[Лабораторная работа 15](https://github.com/VexelB/PCG/tree/master/15
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Лабораторная работа 16](https://github.com/VexelB/PCG/tree/master/16)
+
+[Лабораторная работа 17](https://github.com/VexelB/PCG/tree/master/17)
+
+[Лабораторная работа 18](https://github.com/VexelB/PCG/tree/master/18)
+
+[Лабораторная работа 19](https://github.com/VexelB/PCG/tree/master/19)
+
+[Лабораторная работа 20](https://github.com/VexelB/PCG/tree/master/20)
+
+[Лабораторная работа 21](https://github.com/VexelB/PCG/tree/master/21)
+
+[Лабораторная работа 22](https://github.com/VexelB/PCG/tree/master/22)
+
+[Лабораторная работа 23](https://github.com/VexelB/PCG/tree/master/23)
+
+[Лабораторная работа 24](https://github.com/VexelB/PCG/tree/master/24)
+
+[Лабораторная работа 25](https://github.com/VexelB/PCG/tree/master/25)
+
+[Лабораторная работа 26](https://github.com/VexelB/PCG/tree/master/26)
+
+[Лабораторная работа 28](https://github.com/VexelB/PCG/tree/master/28)
+
+[Лабораторная работа 30](https://github.com/VexelB/PCG/tree/master/30)
+
+[Лабораторная работа 31](https://github.com/VexelB/PCG/tree/master/31)
+
+[Лабораторная работа 32](https://github.com/VexelB/PCG/tree/master/32)
+
+[Лабораторная работа 34](https://github.com/VexelB/PCG/tree/master/34)
+
+[Лабораторная работа 35](https://github.com/VexelB/PCG/tree/master/35)
+
+[Лабораторная работа 36](https://github.com/VexelB/PCG/tree/master/36)
+
+[Лабораторная работа 39](https://github.com/VexelB/PCG/tree/master/39)
+
+[Лабораторная работа 46](https://github.com/VexelB/PCG/tree/master/46)
+
